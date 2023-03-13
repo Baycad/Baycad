@@ -12,12 +12,13 @@
  <img alingn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img alingn="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img alingn="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img alingn="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img alingn="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img alingn="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
 
-Estudando engenharia de software na Universidade Católica de Brasília (Estou no primeiro semestre)
+  - 🏫 Estudando engenharia de software na Universidade Católica de Brasília (Estou no primeiro semestre)<br/>
+  - 🎹 Produzo algumas músicas de vez em quando<br/>
+  - 🧐 Atualmente estou aprendendo HTML,CSS e JavaScipt<br/>
+  - ⚡ FunFact: Todos me chamam de Fofin, sou um fã da produtora 30praum<br/>
+
 
 
 
