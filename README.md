@@ -16,7 +16,7 @@
 
   - 🏫 Estudando engenharia de software na Universidade Católica de Brasília (Estou no primeiro semestre)<br/>
   - 🎹 Produzo algumas músicas de vez em quando<br/>
-  - 🧐 Atualmente estou aprendendo HTML,CSS e JavaScipt<br/>
+  - 🧐 Atualmente estou aprendendo HTML, CSS e JavaScipt<br/>
   - ⚡ FunFact: Todos me chamam de Fofin, sou um fã da produtora 30praum<br/>
 
 
