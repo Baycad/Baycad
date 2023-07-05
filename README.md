@@ -5,7 +5,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lurranonthetrack)
 
 ![Baycad GitHub stats](https://github-readme-stats.vercel.app/api?username=Baycad&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baycad&hide_progress=true=tokyonight)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baycad&hide_progress=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
