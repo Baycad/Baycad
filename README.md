@@ -18,9 +18,9 @@
  <img alingn="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-  - 🏫 Estudando engenharia de software na Universidade Católica de Brasília (Estou no segundo semestre).<br/>
+  - 🏫 Estudando engenharia de software na Universidade Católica de Brasília (Estou no terceiro semestre).<br/>
   - 🎹 Produzo algumas músicas de vez em quando.<br/>
-  - 🧐 Atualmente estou aprendendo JavaScipt, Java e Node.<br/>
+  - 🧐 Atualmente estou aprendendo React.JS e Next.JS.<br/>
   - ⚡ FunFact: Todos me chamam de Fofin, sou um fã da produtora 30praum.<br/>
 
 
