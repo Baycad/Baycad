@@ -20,7 +20,7 @@
 
   - 🏫 Estudando engenharia de software na Universidade Católica de Brasília (Estou no terceiro semestre).<br/>
   - 🎹 Produzo algumas músicas de vez em quando.<br/>
-  - 🧐 Atualmente estou aprendendo React.JS e Next.JS.<br/>
+  - 🧐 Atualmente estou aprendendo React.JS, Next.JS, C e C++<br/>
   - ⚡ FunFact: Todos me chamam de Fofin, sou um fã da produtora 30praum.<br/>
 
 
